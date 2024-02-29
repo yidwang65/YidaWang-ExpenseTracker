@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="expense_title_hint">Enter a title for the expense.</string>
+    <string name="expense_title_label">Title</string>
+    <string name="expense_details_label">Details</string>
+    <string name="expense_solved_label">Solved</string>
+    <string name="new_expense">New Expense</string>
+    <string name="expense_suspect_text">Choose Suspect</string>
+    <string name="expense_report_text">Send Expense Report</string>
+    <string name="expense_report">%1$s!
+        The expense was discovered on %2$s. %3$s, and %4$s
+    </string>
+    <string name="expense_report_solved">The case is solved</string>
+    <string name="expense_report_unsolved">The case is not solved</string>
+    <string name="expense_report_no_suspect">there is no suspect.</string>
+    <string name="expense_report_suspect">the suspect is %s.</string>
+    <string name="expense_report_subject">CriminalIntent Expense Report</string>
+    <string name="send_report">Send expense report via</string>
+    <string-array name="categories">
+        <item>Food</item>
+        <item>Entertainment</item>
+        <item>Housing</item>
+        <item>Utilities</item>
+        <item>Fuel</item>
+        <item>Automotive</item>
+        <item>Misc</item>
+    </string-array>
+</resources>
